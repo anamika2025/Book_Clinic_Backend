@@ -188,3 +188,4 @@ F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic\obj\Debu
 F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic\obj\Debug\net9.0\Book-Clinic.Web.pdb
 F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic\obj\Debug\net9.0\Book-Clinic.Web.genruntimeconfig.cache
 F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic\obj\Debug\net9.0\ref\Book-Clinic.Web.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic\bin\Debug\net9.0\.filenesting.json
