@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Book-Clinic.Web.props" />
+</Project>

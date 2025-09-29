@@ -6,9 +6,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Book_Clinic.Entities.Models;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore;
 
 namespace Book_Clinic.Data
 {
@@ -25,12 +22,10 @@ namespace Book_Clinic.Data
 
         public DbSet<MstAppointment> MstAppointments { get; set; }
 
-
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
 
-            // Configure relationships
             builder.Entity<MstAppointment>()
                 .HasOne(a => a.User)
                 .WithMany()

@@ -15,3 +15,21 @@ F:\Book Clinic\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Bo
 F:\Book Clinic\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\refint\Book-Clinic.Repository.dll
 F:\Book Clinic\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Book-Clinic.Repository.pdb
 F:\Book Clinic\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\ref\Book-Clinic.Repository.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\bin\Debug\net9.0\Book-Clinic.Repository.deps.json
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\bin\Debug\net9.0\Book-Clinic.Repository.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\bin\Debug\net9.0\Book-Clinic.Repository.pdb
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\bin\Debug\net9.0\Book-Clinic.Entities.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\bin\Debug\net9.0\Book_Clinic.Data.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\bin\Debug\net9.0\Book_Clinic.Data.pdb
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\bin\Debug\net9.0\Book-Clinic.Entities.pdb
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Book-Clinic.Repository.csproj.AssemblyReference.cache
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Book-Clinic.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Book-Clinic.Repository.AssemblyInfoInputs.cache
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Book-Clinic.Repository.AssemblyInfo.cs
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Book-Clinic.Repository.csproj.CoreCompileInputs.cache
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Book-Clinic.Repository.sourcelink.json
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Book-Cli.C7281449.Up2Date
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Book-Clinic.Repository.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\refint\Book-Clinic.Repository.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\Book-Clinic.Repository.pdb
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Repository\obj\Debug\net9.0\ref\Book-Clinic.Repository.dll

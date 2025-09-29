@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\Book-Clinic.Web.csproj": {}
+    "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic\\Book-Clinic.Web.csproj": {}
   },
   "projects": {
-    "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj": {
+    "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj",
+        "projectUniqueName": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj",
         "projectName": "Book-Clinic.Authentication",
-        "projectPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj",
+        "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj",
         "packagesPath": "C:\\Users\\Anamika\\.nuget\\packages\\",
-        "outputPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\obj\\",
+        "outputPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {
-                "projectPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj"
+              "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {
+                "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj"
               }
             }
           }
@@ -66,6 +66,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
@@ -88,14 +92,14 @@
         }
       }
     },
-    "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {
+    "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj",
+        "projectUniqueName": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj",
         "projectName": "Book-Clinic.Entities",
-        "projectPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj",
+        "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj",
         "packagesPath": "C:\\Users\\Anamika\\.nuget\\packages\\",
-        "outputPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\obj\\",
+        "outputPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -135,10 +139,6 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNet.Identity.EntityFramework": {
-              "target": "Package",
-              "version": "[2.2.4, )"
-            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[9.0.9, )"
@@ -150,6 +150,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
@@ -172,14 +176,14 @@
         }
       }
     },
-    "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\Book-Clinic.Web.csproj": {
+    "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Repository\\Book-Clinic.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\Book-Clinic.Web.csproj",
-        "projectName": "Book-Clinic.Web",
-        "projectPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\Book-Clinic.Web.csproj",
+        "projectUniqueName": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Repository\\Book-Clinic.Repository.csproj",
+        "projectName": "Book-Clinic.Repository",
+        "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Repository\\Book-Clinic.Repository.csproj",
         "packagesPath": "C:\\Users\\Anamika\\.nuget\\packages\\",
-        "outputPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\obj\\",
+        "outputPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -201,11 +205,105 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj": {
-                "projectPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj"
+              "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj": {
+                "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic\\Book-Clinic.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic\\Book-Clinic.Web.csproj",
+        "projectName": "Book-Clinic.Web",
+        "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic\\Book-Clinic.Web.csproj",
+        "packagesPath": "C:\\Users\\Anamika\\.nuget\\packages\\",
+        "outputPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anamika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj": {
+                "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj"
               },
-              "F:\\Book Clinic\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj": {
-                "projectPath": "F:\\Book Clinic\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj"
+              "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {
+                "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj"
+              },
+              "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Repository\\Book-Clinic.Repository.csproj": {
+                "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Repository\\Book-Clinic.Repository.csproj"
+              },
+              "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj": {
+                "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj"
               }
             }
           }
@@ -251,6 +349,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
@@ -276,14 +378,14 @@
         }
       }
     },
-    "F:\\Book Clinic\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj": {
+    "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Book Clinic\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj",
+        "projectUniqueName": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj",
         "projectName": "Book_Clinic.Data",
-        "projectPath": "F:\\Book Clinic\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj",
+        "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book_Clinic.Data\\Book_Clinic.Data.csproj",
         "packagesPath": "C:\\Users\\Anamika\\.nuget\\packages\\",
-        "outputPath": "F:\\Book Clinic\\clinic-booking-backend\\Book_Clinic.Data\\obj\\",
+        "outputPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book_Clinic.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -305,8 +407,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {
-                "projectPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj"
+              "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {
+                "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj"
               }
             }
           }
@@ -338,6 +440,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [

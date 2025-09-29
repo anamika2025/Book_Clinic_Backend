@@ -1,14 +1,8 @@
 ﻿using Book_Clinic.Authentication.DTOs;
 using Book_Clinic.Authentication.Utilities;
 using Book_Clinic.Entities.Models;
-using Microsoft.AspNet.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Book_Clinic.Authentication.Services;
 

@@ -1,14 +1,9 @@
 ﻿using Book_Clinic.Entities.Models;
-using Microsoft.AspNet.Identity;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
-using System;
-using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
 using System.Security.Claims;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Book_Clinic.Authentication.Utilities
 {
@@ -23,9 +18,14 @@ namespace Book_Clinic.Authentication.Utilities
 
         public string GenerateToken(MstUser user)
         {
+            if (string.IsNullOrEmpty(user.Id) || string.IsNullOrEmpty(user.Email) || string.IsNullOrEmpty(user.Role))
+            {
+                throw new ArgumentException("User properties cannot be null or empty");
+            }
+
             var claims = new List<Claim>
             {
-                new Claim(ClaimTypes.NameIdentifier, user.Id),
+                new Claim(ClaimTypes.NameIdentifier, user.Id ),
                 new Claim(ClaimTypes.Email, user.Email),
                 new Claim(ClaimTypes.Role, user.Role)
             };

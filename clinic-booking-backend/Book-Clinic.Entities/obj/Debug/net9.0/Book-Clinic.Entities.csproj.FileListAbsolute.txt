@@ -10,3 +10,16 @@ F:\Book Clinic\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\Book
 F:\Book Clinic\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\refint\Book-Clinic.Entities.dll
 F:\Book Clinic\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\Book-Clinic.Entities.pdb
 F:\Book Clinic\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\ref\Book-Clinic.Entities.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\bin\Debug\net9.0\Book-Clinic.Entities.deps.json
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\bin\Debug\net9.0\Book-Clinic.Entities.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\bin\Debug\net9.0\Book-Clinic.Entities.pdb
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\Book-Clinic.Entities.csproj.AssemblyReference.cache
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\Book-Clinic.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\Book-Clinic.Entities.AssemblyInfoInputs.cache
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\Book-Clinic.Entities.AssemblyInfo.cs
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\Book-Clinic.Entities.csproj.CoreCompileInputs.cache
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\Book-Clinic.Entities.sourcelink.json
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\Book-Clinic.Entities.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\refint\Book-Clinic.Entities.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\Book-Clinic.Entities.pdb
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Entities\obj\Debug\net9.0\ref\Book-Clinic.Entities.dll

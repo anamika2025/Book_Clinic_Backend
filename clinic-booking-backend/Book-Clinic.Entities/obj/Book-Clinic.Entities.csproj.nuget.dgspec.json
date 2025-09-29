@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {}
+    "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {}
   },
   "projects": {
-    "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {
+    "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj",
+        "projectUniqueName": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj",
         "projectName": "Book-Clinic.Entities",
-        "projectPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj",
+        "projectPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\Book-Clinic.Entities.csproj",
         "packagesPath": "C:\\Users\\Anamika\\.nuget\\packages\\",
-        "outputPath": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\obj\\",
+        "outputPath": "F:\\GitHub\\GitHub\\Book_Clinic_Backend\\clinic-booking-backend\\Book-Clinic.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,10 +51,6 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNet.Identity.EntityFramework": {
-              "target": "Package",
-              "version": "[2.2.4, )"
-            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[9.0.9, )"
@@ -66,6 +62,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [

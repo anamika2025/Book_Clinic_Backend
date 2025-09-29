@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Book-Clinic.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2322ddf37518bc0b5846ca886a8e6a0034aaa319")]
 [assembly: System.Reflection.AssemblyProductAttribute("Book-Clinic.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Book-Clinic.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

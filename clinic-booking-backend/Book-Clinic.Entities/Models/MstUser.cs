@@ -9,7 +9,8 @@ namespace Book_Clinic.Entities.Models;
 
 public class MstUser : IdentityUser
 {
-  
+
+    public int UserId { get; set; }
     public string? Role { get; set; }
     public string? Status { get; set; }
 

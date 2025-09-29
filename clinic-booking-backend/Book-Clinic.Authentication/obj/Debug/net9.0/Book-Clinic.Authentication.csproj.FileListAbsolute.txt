@@ -3,3 +3,19 @@ F:\Book Clinic\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.
 F:\Book Clinic\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.AssemblyInfoInputs.cache
 F:\Book Clinic\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.AssemblyInfo.cs
 F:\Book Clinic\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.csproj.CoreCompileInputs.cache
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\bin\Debug\net9.0\Book-Clinic.Authentication.deps.json
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\bin\Debug\net9.0\Book-Clinic.Authentication.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\bin\Debug\net9.0\Book-Clinic.Authentication.pdb
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\bin\Debug\net9.0\Book-Clinic.Entities.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\bin\Debug\net9.0\Book-Clinic.Entities.pdb
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.csproj.AssemblyReference.cache
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.AssemblyInfoInputs.cache
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.AssemblyInfo.cs
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.csproj.CoreCompileInputs.cache
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.sourcelink.json
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Cli.3B52F18F.Up2Date
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\refint\Book-Clinic.Authentication.dll
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\Book-Clinic.Authentication.pdb
+F:\GitHub\GitHub\Book_Clinic_Backend\clinic-booking-backend\Book-Clinic.Authentication\obj\Debug\net9.0\ref\Book-Clinic.Authentication.dll
