@@ -1,0 +1,6 @@
+F:\Book Clinic\clinic-booking-backend\Book-Clinic\obj\Debug\net9.0\Book-Clinic.Web.csproj.AssemblyReference.cache
+F:\Book Clinic\clinic-booking-backend\Book-Clinic\obj\Debug\net9.0\Book-Clinic.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Book Clinic\clinic-booking-backend\Book-Clinic\obj\Debug\net9.0\Book-Clinic.Web.AssemblyInfoInputs.cache
+F:\Book Clinic\clinic-booking-backend\Book-Clinic\obj\Debug\net9.0\Book-Clinic.Web.AssemblyInfo.cs
+F:\Book Clinic\clinic-booking-backend\Book-Clinic\obj\Debug\net9.0\Book-Clinic.Web.csproj.CoreCompileInputs.cache
+F:\Book Clinic\clinic-booking-backend\Book-Clinic\obj\Debug\net9.0\Book-Clinic.Web.MvcApplicationPartsAssemblyInfo.cache

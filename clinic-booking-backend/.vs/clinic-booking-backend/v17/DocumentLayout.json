@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Book Clinic\\clinic-booking-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2B1F7C-F259-4671-A4A7-5983654F0390}|Book-Clinic\\Book-Clinic.Web.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2B1F7C-F259-4671-A4A7-5983654F0390}|Book-Clinic\\Book-Clinic.Web.csproj|solutionrelative:book-clinic\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2B1F7C-F259-4671-A4A7-5983654F0390}|Book-Clinic\\Book-Clinic.Web.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2B1F7C-F259-4671-A4A7-5983654F0390}|Book-Clinic\\Book-Clinic.Web.csproj|solutionrelative:book-clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1BCB4F-4727-46A8-94E8-1AC3D0A24936}|Book_Clinic.Data\\Book_Clinic.Data.csproj|f:\\book clinic\\clinic-booking-backend\\book_clinic.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1BCB4F-4727-46A8-94E8-1AC3D0A24936}|Book_Clinic.Data\\Book_Clinic.Data.csproj|solutionrelative:book_clinic.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D24E0D-33EA-49B7-8071-5264685E1AAD}|Book-Clinic.Entities\\Book-Clinic.Entities.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.entities\\models\\mstuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D24E0D-33EA-49B7-8071-5264685E1AAD}|Book-Clinic.Entities\\Book-Clinic.Entities.csproj|solutionrelative:book-clinic.entities\\models\\mstuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2B1F7C-F259-4671-A4A7-5983654F0390}|Book-Clinic\\Book-Clinic.Web.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC2B1F7C-F259-4671-A4A7-5983654F0390}|Book-Clinic\\Book-Clinic.Web.csproj|solutionrelative:book-clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.authentication\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|solutionrelative:book-clinic.authentication\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D24E0D-33EA-49B7-8071-5264685E1AAD}|Book-Clinic.Entities\\Book-Clinic.Entities.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.entities\\models\\mstappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D24E0D-33EA-49B7-8071-5264685E1AAD}|Book-Clinic.Entities\\Book-Clinic.Entities.csproj|solutionrelative:book-clinic.entities\\models\\mstappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D24E0D-33EA-49B7-8071-5264685E1AAD}|Book-Clinic.Entities\\Book-Clinic.Entities.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.entities\\models\\mstdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D24E0D-33EA-49B7-8071-5264685E1AAD}|Book-Clinic.Entities\\Book-Clinic.Entities.csproj|solutionrelative:book-clinic.entities\\models\\mstdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D24E0D-33EA-49B7-8071-5264685E1AAD}|Book-Clinic.Entities\\Book-Clinic.Entities.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.entities\\models\\mstclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D24E0D-33EA-49B7-8071-5264685E1AAD}|Book-Clinic.Entities\\Book-Clinic.Entities.csproj|solutionrelative:book-clinic.entities\\models\\mstclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.authentication\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|solutionrelative:book-clinic.authentication\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.authentication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|solutionrelative:book-clinic.authentication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.authentication\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|solutionrelative:book-clinic.authentication\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.authentication\\utilities\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|solutionrelative:book-clinic.authentication\\utilities\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.authentication\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DD0F81-2A73-40A3-8477-19DC2F7DBE53}|Book-Clinic.Authentication\\Book-Clinic.Authentication.csproj|solutionrelative:book-clinic.authentication\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE840103-7C9F-4795-95C0-86E84D138E36}|Book-Clinic.Repository\\Book-Clinic.Repository.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.repository\\irepository\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE840103-7C9F-4795-95C0-86E84D138E36}|Book-Clinic.Repository\\Book-Clinic.Repository.csproj|solutionrelative:book-clinic.repository\\irepository\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE840103-7C9F-4795-95C0-86E84D138E36}|Book-Clinic.Repository\\Book-Clinic.Repository.csproj|f:\\book clinic\\clinic-booking-backend\\book-clinic.repository\\repository\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE840103-7C9F-4795-95C0-86E84D138E36}|Book-Clinic.Repository\\Book-Clinic.Repository.csproj|solutionrelative:book-clinic.repository\\repository\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\appsettings.json",
+              "RelativeDocumentMoniker": "Book-Clinic\\appsettings.json",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\appsettings.json",
+              "RelativeToolTip": "Book-Clinic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T12:35:38.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Book-Clinic\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Book-Clinic\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:13:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\Program.cs",
+              "RelativeDocumentMoniker": "Book-Clinic\\Program.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic\\Program.cs",
+              "RelativeToolTip": "Book-Clinic\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:07:58.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Utilities\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Authentication\\Utilities\\JwtTokenGenerator.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Utilities\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Book-Clinic.Authentication\\Utilities\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:58:57.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Authentication\\Services\\IAuthService.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Book-Clinic.Authentication\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:58:40.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Authentication\\Services\\AuthService.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\Services\\AuthService.cs",
+              "RelativeToolTip": "Book-Clinic.Authentication\\Services\\AuthService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:58:26.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Authentication\\DTOs\\LoginRequest.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "Book-Clinic.Authentication\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:57:52.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Authentication\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "Book-Clinic.Authentication\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:57:28.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\DTOs\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Authentication\\DTOs\\AuthResponse.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Authentication\\DTOs\\AuthResponse.cs",
+              "RelativeToolTip": "Book-Clinic.Authentication\\DTOs\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:57:20.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICrudRepository.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Repository\\IRepository\\ICrudRepository.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Repository\\IRepository\\ICrudRepository.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Repository\\IRepository\\ICrudRepository.cs",
+              "RelativeToolTip": "Book-Clinic.Repository\\IRepository\\ICrudRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:36:20.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrudRepository.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Repository\\Repository\\CrudRepository.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Repository\\Repository\\CrudRepository.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Repository\\Repository\\CrudRepository.cs",
+              "RelativeToolTip": "Book-Clinic.Repository\\Repository\\CrudRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:36:02.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book_Clinic.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Book_Clinic.Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book_Clinic.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Book_Clinic.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:31:48.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MstAppointment.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Models\\MstAppointment.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Entities\\Models\\MstAppointment.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Models\\MstAppointment.cs",
+              "RelativeToolTip": "Book-Clinic.Entities\\Models\\MstAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:26:37.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MstDoctor.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Models\\MstDoctor.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Entities\\Models\\MstDoctor.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Models\\MstDoctor.cs",
+              "RelativeToolTip": "Book-Clinic.Entities\\Models\\MstDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:25:23.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MstClinic.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Models\\MstClinic.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Entities\\Models\\MstClinic.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Models\\MstClinic.cs",
+              "RelativeToolTip": "Book-Clinic.Entities\\Models\\MstClinic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:24:49.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MstUser.cs",
+              "DocumentMoniker": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Models\\MstUser.cs",
+              "RelativeDocumentMoniker": "Book-Clinic.Entities\\Models\\MstUser.cs",
+              "ToolTip": "F:\\Book Clinic\\clinic-booking-backend\\Book-Clinic.Entities\\Models\\MstUser.cs",
+              "RelativeToolTip": "Book-Clinic.Entities\\Models\\MstUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:23:05.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

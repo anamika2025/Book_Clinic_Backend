@@ -1,0 +1,15 @@
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\bin\Debug\net9.0\Book_Clinic.Data.deps.json
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\bin\Debug\net9.0\Book_Clinic.Data.dll
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\bin\Debug\net9.0\Book_Clinic.Data.pdb
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\bin\Debug\net9.0\Book-Clinic.Entities.dll
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\bin\Debug\net9.0\Book-Clinic.Entities.pdb
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\obj\Debug\net9.0\Book_Clinic.Data.csproj.AssemblyReference.cache
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\obj\Debug\net9.0\Book_Clinic.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\obj\Debug\net9.0\Book_Clinic.Data.AssemblyInfoInputs.cache
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\obj\Debug\net9.0\Book_Clinic.Data.AssemblyInfo.cs
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\obj\Debug\net9.0\Book_Clinic.Data.csproj.CoreCompileInputs.cache
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\obj\Debug\net9.0\Book_Cli.9CAA8A15.Up2Date
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\obj\Debug\net9.0\Book_Clinic.Data.dll
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\obj\Debug\net9.0\refint\Book_Clinic.Data.dll
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\obj\Debug\net9.0\Book_Clinic.Data.pdb
+F:\Book Clinic\clinic-booking-backend\Book_Clinic.Data\obj\Debug\net9.0\ref\Book_Clinic.Data.dll
