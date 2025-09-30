@@ -1,9 +1,11 @@
-﻿namespace Book_Clinic.Entities.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Book_Clinic.Entities.Models
 {
     public class MstAppointment
     {
+        [Key]
         public int AppointmentId { get; set; }
-        // Foreign keys
         public int DoctorId { get; set; }
         public int CityId { get; set; }
         public string UserId { get; set; }
